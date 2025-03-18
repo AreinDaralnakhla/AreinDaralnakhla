@@ -4,7 +4,7 @@
 ### I'm Arein, a Computer Engineering graduate, currently pursuing a Masters of Science in Imaging and Light in Extended Reality. Check out my program: <a href="https://imlex.org">IMLEX</a>
 
 - 🧐 My current projects focus on Deep Learning, Computer vision, and 3D Reconstruction
-- 👩🏼‍🎨 Interests: DL, Holograms, 3D modeling
+- 👩🏼‍🎨 Interests: Holograms, Computer Graphics, Animation
 - 👩🏽‍💻 Programming languages in JavaScript, Python, and C#
 - 📞 LinkedIn: www.linkedin.com/in/arein-daralnakhla
 - 📧 Email: arein.daralnakhla@gmail.com
