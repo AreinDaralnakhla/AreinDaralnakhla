@@ -2,7 +2,7 @@
 
 **PhD, 2025-2028**  
 *Human Behavior in Multi-Sensory Virtual Reality Environments*  
-École Centrale de Lyon – ENISE • [LIRIS Laboratory](https://liris.cnrs.fr)  
+École Centrale de Lyon – ENISE • [LIRIS](https://liris.cnrs.fr)  
 📍 France
 
 **MSc in Imaging and Light in Extended Reality (IMLEX), 2023–2025**  
