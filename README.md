@@ -1,4 +1,4 @@
-### 🎓 Academic Background
+### Academic Background
 
 **PhD, 2025-2028**  
 *Human Behavior in Multi-Sensory Virtual Reality Environments*  
